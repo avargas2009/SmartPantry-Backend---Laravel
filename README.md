@@ -1,1 +1,1 @@
-# SmartPantry-Backend---Laravel
+# SmartPantry-Backend-Laravel
